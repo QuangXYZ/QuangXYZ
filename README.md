@@ -19,3 +19,4 @@ Background GIF by [Venezol2.1](https://www.pinterest.com/pin/861032022531738089/
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangXYZ&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
+![](https://komarev.com/ghpvc/?username=QuangXYZ)
