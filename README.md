@@ -1,4 +1,11 @@
+<div align="center">
 
+[![Hello World, I'm Jasper!](asset/219a09d5c2d9e50e4c2d20c9a03e09af.gif)](https://github.com/kshyun28)
+Background GIF by [Venezol2.1](https://www.pinterest.com/pin/861032022531738089/) on [Pinterest](https://www.pinterest.com/).
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:Quang.kasumi@gmail.com?subject=Hello%20Quang,%20From%20Github)
+
+</div>
 
 ## 💻 My Tech Stack:
 
